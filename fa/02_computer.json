@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 101,
+    "question": "کمپیوتر چیست؟",
+    "options": [
+      "ماشین حساب",
+      "دستگاه الکترونیکی برای پردازش معلومات",
+      "تلفون",
+      "تلویزیون"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "CPU مخفف چیست؟",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Control Program Unit",
+      "Central Power Unit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 103,
+    "question": "کدام یک از گزینه‌های پایین مغز کمپیوتر است؟",
+    "options": [
+      "RAM",
+      "CPU",
+      "Monitor",
+      "Keyboard"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 104,
+    "question": "کدام وسیله ورودی است؟",
+    "options": [
+      "Printer",
+      "Monitor",
+      "Keyboard",
+      "Speaker"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "کدام وسیله خروجی است؟",
+    "options": [
+      "Mouse",
+      "Keyboard",
+      "Monitor",
+      "Scanner"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 106,
+    "question": "RAM چه نوع حافظه است؟",
+    "options": [
+      "دایمی",
+      "موقتی",
+      "خارجی",
+      "نوری"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "کدام یک سیستم عامل است؟",
+    "options": [
+      "Word",
+      "Windows",
+      "Excel",
+      "Paint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 108,
+    "question": "ماوس برای چی استفاده می‌شود؟",
+    "options": [
+      "چاپ",
+      "حرکت اشاره گر",
+      "ذخیره",
+      "تایپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "کدام برنامه برای نوشتن استفاده می‌شود؟",
+    "options": [
+      "Excel",
+      "Word",
+      "Paint",
+      "PowerPoint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "کدام یک حافظه دایمی است؟",
+    "options": [
+      "RAM",
+      "Cache",
+      "Hard Disk",
+      "Processor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "انترنت چیست؟",
+    "options": [
+      "یک نرم افزار",
+      "شبکه جهانی کمپیوترها",
+      "یک برنامه",
+      "سیستم عامل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "ایمیل چیست؟",
+    "options": [
+      "نامه الکترونیکی",
+      "برنامه",
+      "بازی",
+      "فایل"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 113,
+    "question": "کدام دستگاه برای چاپ است؟",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Mouse",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "نرم افزار چیست؟",
+    "options": [
+      "اجزای فزیکی",
+      "برنامه‌ها و دستورالعمل‌ها",
+      "کیبل‌ها",
+      "مانیتور"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 115,
+    "question": "سخت افزار چیست؟",
+    "options": [
+      "برنامه‌ها",
+      "اجزای فزیکی کمپیوتر",
+      "انترنت",
+      "ویروس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 116,
+    "question": "ویروس کمپیوتر چیست؟",
+    "options": [
+      "برنامه مفید",
+      "برنامه مخرب",
+      "سیستم عامل",
+      "بازی"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "کدام یک مرورگر (بروزر) است؟",
+    "options": [
+      "Word",
+      "Chrome",
+      "Excel",
+      "Paint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 118,
+    "question": "فایل چیست؟",
+    "options": [
+      "برنامه",
+      "مجموعه اطلاعات ذخیره شده",
+      "سیستم",
+      "ویروس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 119,
+    "question": "فولدر چیست؟",
+    "options": [
+      "فایل",
+      "پوشه برای نگهداری فایل‌ها",
+      "برنامه",
+      "ویروس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 120,
+    "question": "مانیتور چیست؟",
+    "options": [
+      "ورودی",
+      "خروجی",
+      "حافظه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 121,
+    "question": "کیبورد برای چیست؟",
+    "options": [
+      "دیدن",
+      "تایپ کردن",
+      "چاپ",
+      "ذخیره"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 122,
+    "question": "اسکنر چیست؟",
+    "options": [
+      "وسیله خروجی",
+      "وسیله ورودی",
+      "حافظه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 123,
+    "question": "USB چیست؟",
+    "options": [
+      "نرم افزار",
+      "وسیله ذخیره سازی",
+      "مانیتور",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 124,
+    "question": "PowerPoint برای چیست؟",
+    "options": [
+      "حساب",
+      "ارائه پریزنتیشن",
+      "نقاشی",
+      "تایپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "Excel برای چیست؟",
+    "options": [
+      "نوشتن",
+      "محاسبه و جدول بندی",
+      "نقاشی",
+      "انترنت"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Desktop چیست؟",
+    "options": [
+      "صفحه اصلی کمپیوتر",
+      "برنامه",
+      "فایل",
+      "CPU"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 127,
+    "question": "Icon چیست؟",
+    "options": [
+      "فایل",
+      "تصویر کوچک برنامه یا فایل",
+      "ویروس",
+      "کیبل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "Recycle Bin چیست؟",
+    "options": [
+      "ذخیره",
+      "محل فایل‌های حذف شده",
+      "برنامه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 129,
+    "question": "Save یعنی چه؟",
+    "options": [
+      "حذف",
+      "ذخیره کردن",
+      "باز کردن",
+      "چاپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 130,
+    "question": "Delete یعنی چه؟",
+    "options": [
+      "ذخیره",
+      "حذف",
+      "باز کردن",
+      "چاپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 131,
+    "question": "PDF مخفف چیست؟",
+    "options": [
+      "Portable Data File",
+      "Printed Document Format",
+      "Portable Document Format",
+      "Public Document File"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 132,
+    "question": "مهمترین ویژگی فایل PDF چیست؟",
+    "options": [
+      "قابلیت اجرای برنامه",
+      "حفظ قالب‌بندی در همه دستگاه‌ها",
+      "فقط خواندنی بودن",
+      "حجم بسیار زیاد"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 133,
+    "question": "کدام نرم‌افزار برای باز کردن فایل PDF رایج است؟",
+    "options": [
+      "Paint",
+      "Notepad",
+      "Adobe Acrobat Reader",
+      "Excel"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 134,
+    "question": "آیا می‌توان فایل PDF را ویرایش کرد؟",
+    "options": [
+      "خیر، هرگز",
+      "فقط با تبدیل به Word",
+      "بله، با نرم‌افزارهای مخصوص",
+      "فقط در موبایل"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "کدام گزینه برای تبدیل فایل به PDF استفاده می‌شود؟",
+    "options": [
+      "Export یا Save As",
+      "Copy",
+      "Paste",
+      "Delete"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 136,
+    "question": "فایل PDF بیشتر در کجا استفاده می‌شود؟",
+    "options": [
+      "برنامه‌نویسی",
+      "طراحی بازی",
+      "اسناد رسمی و آموزشی",
+      "اجرای موسیقی"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 137,
+    "question": "کدام ویژگی امنیتی در PDF وجود دارد؟",
+    "options": [
+      "نصب خودکار",
+      "رمزگذاری (Password)",
+      "تغییر رنگ خودکار",
+      "اجرای کد"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 138,
+    "question": "برای ادغام چند فایل PDF از چه چیزی استفاده می‌شود؟",
+    "options": [
+      "مرورگر اینترنت",
+      "نرم‌افزارهای ویرایش PDF",
+      "ماشین حساب",
+      "Paint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 139,
+    "question": "آیا PDF روی همه سیستم‌ها قابل اجرا است؟",
+    "options": [
+      "فقط ویندوز",
+      "فقط اندروید",
+      "بله، تقریباً در همه سیستم‌ها",
+      "فقط مک"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 140,
+    "question": "کدام گزینه برای امضای دیجیتال در PDF استفاده می‌شود؟",
+    "options": [
+      "Insert Image",
+      "Digital Signature",
+      "Font Style",
+      "Zoom"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 141,
+    "question": "ترکیب توابع INDEX و MATCH بیشتر برای چه کاری استفاده می‌شود؟",
+    "options": [
+      "رسم نمودار",
+      "جستجوی پیشرفته داده‌ها",
+      "رنگ کردن سلول‌ها",
+      "چاپ فایل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 142,
+    "question": "کدام تابع برای شمارش سلول‌هایی که چند شرط دارند استفاده می‌شود؟",
+    "options": [
+      "COUNT",
+      "COUNTIFS",
+      "SUM",
+      "MAX"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 143,
+    "question": "در فرمول =$A$1+B1 علامت $ چه کاری انجام می‌دهد؟",
+    "options": [
+      "جمع می‌کند",
+      "سلول را حذف می‌کند",
+      "مرجع سلول را ثابت می‌کند",
+      "فرمول را پاک می‌کند"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 144,
+    "question": "ابزار Goal Seek در Excel برای چه کاری استفاده می‌شود؟",
+    "options": [
+      "طراحی جدول",
+      "پیدا کردن مقدار مناسب برای رسیدن به نتیجه",
+      "رسم نمودار",
+      "چاپ فایل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 145,
+    "question": "Data Validation در Excel چه کاری انجام می‌دهد؟",
+    "options": [
+      "رنگ دادن به سلول‌ها",
+      "جلوگیری از ورود داده اشتباه",
+      "حذف ستون‌ها",
+      "ساخت نمودار"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 146,
+    "question": "کدام گزینه برای ایجاد Style جدید در Word استفاده می‌شود؟",
+    "options": [
+      "Insert → Styles",
+      "Home → Styles → Create a Style",
+      "Review → Styles",
+      "Layout → Styles"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 147,
+    "question": "برای جلوگیری از جابه‌جایی یک پاراگراف بین دو صفحه از کدام گزینه استفاده می‌شود؟",
+    "options": [
+      "Keep with next",
+      "Line spacing",
+      "Page break",
+      "Indent"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 148,
+    "question": "کدام گزینه برای ایجاد ارجاع (Citation) و منابع در Word استفاده می‌شود؟",
+    "options": [
+      "Insert",
+      "References",
+      "Review",
+      "Mailings"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 149,
+    "question": "برای ترکیب چند نامه مشابه با اطلاعات متفاوت (مثل نام افراد) از چه قابلیتی استفاده می‌شود؟",
+    "options": [
+      "Track Changes",
+      "Mail Merge",
+      "Compare",
+      "Macro"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 150,
+    "question": "برای ثبت تغییرات و مشاهده ویرایش‌ها در یک سند از چه گزینه‌ای استفاده می‌شود؟",
+    "options": [
+      "Comments",
+      "Track Changes",
+      "Protect Document",
+      "Compare"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 151,
+    "question": "کدام گزینه برای محدود کردن ویرایش سند (مثلاً فقط خواندنی) استفاده می‌شود؟",
+    "options": [
+      "Restrict Editing",
+      "Protect Sheet",
+      "Lock Cells",
+      "Hide Text"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 152,
+    "question": "برای درج شماره صفحه متفاوت در بخش‌های مختلف یک سند، چه چیزی لازم است؟",
+    "options": [
+      "Table",
+      "Section Break",
+      "Page Layout",
+      "Header"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 153,
+    "question": "کدام گزینه برای جستجو و جایگزینی پیشرفته متن استفاده می‌شود؟",
+    "options": [
+      "Replace (Ctrl + H)",
+      "Find (Ctrl + F)",
+      "Select All",
+      "Go To"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 154,
+    "question": "برای ایجاد فهرست اشکال (List of Figures) از کدام قابلیت استفاده می‌شود؟",
+    "options": [
+      "Insert Caption + References",
+      "SmartArt",
+      "Table Design",
+      "Shapes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 155,
+    "question": "کدام گزینه برای اجرای خودکار مجموعه‌ای از دستورات در Word استفاده می‌شود؟",
+    "options": [
+      "Template",
+      "Macro",
+      "Add-in",
+      "Shortcut"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "کیبورد چیست؟",
+    "options": [
+      "دستگاهی که اطلاعات را پردازش می‌کند",
+      "یک موبایل",
+      "یک کمپیوتر",
+      "یک نرم‌افزار"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 157,
+    "question": "CPU به چه معناست؟",
+    "options": [
+      "حافظه",
+      "پردازنده",
+      "صفحه نمایش",
+      "شبکه"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 158,
+    "question": "RAM چه کاری انجام می‌دهد؟",
+    "options": [
+      "ذخیره دائمی",
+      "ذخیره موقتی",
+      "ویروسها را پاک می‌کند",
+      "اینترنت می‌دهد"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 159,
+    "question": "کیبورد چیست؟",
+    "options": [
+      "وسیله خروجی",
+      "وسیله ورودی",
+      "شبکه",
+      "نرم‌افزار"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 160,
+    "question": "مانیتور چیست؟",
+    "options": [
+      "ورودی",
+      "ذخیره‌سازی",
+      "خروجی",
+      "شبکه"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 161,
+    "question": "نرم‌افزار چیست؟",
+    "options": [
+      "بخش فیزیکی",
+      "برنامه‌ها",
+      "کابل",
+      "روتر"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 162,
+    "question": "هاردویر چیست؟",
+    "options": [
+      "برنامه",
+      "وسایل فیزیکی",
+      "اینترنت",
+      "داده"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 163,
+    "question": "OS چیست؟",
+    "options": [
+      "سیستم عامل",
+      "سیستم خروجی",
+      "نرم‌افزار باز",
+      "سیستم نوری"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 164,
+    "question": "ویندوز چیست؟",
+    "options": [
+      "هاردویر",
+      "سیستم عامل",
+      "شبکه",
+      "مرورگر"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 165,
+    "question": "فایل چیست؟",
+    "options": [
+      "ذخیره اطلاعات",
+      "برنامه",
+      "شبکه",
+      "کمپیوتر"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 166,
+    "question": "آدرس IP چیست؟",
+    "options": [
+      "آدرس فزیکی",
+      "آدرس منطقی",
+      "کمپیوتر",
+      "برنامه"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 167,
+    "question": "روتر چه کاری انجام می‌دهد؟",
+    "options": [
+      "داده‌ها را ذخیره می‌کند",
+      "ویروسها را پاک می‌کند",
+      "شبکه‌ها را به هم وصل می‌کند",
+      "صفحه را نمایش می‌دهد"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 168,
+    "question": "سوئیچ چه کاری انجام می‌دهد؟",
+    "options": [
+      "اینترنت می‌دهد",
+      "دستگاه‌ها را به هم وصل می‌کند",
+      "ویروس پاک می‌کند",
+      "فایل ایجاد می‌کند"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 169,
+    "question": "LAN چیست؟",
+    "options": [
+      "شبکه جهانی",
+      "شبکه محلی",
+      "شبکه موبایل",
+      "وایرلس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 170,
+    "question": "WAN چیست؟",
+    "options": [
+      "شبکه محلی",
+      "شبکه شخصی",
+      "شبکه گسترده",
+      "شبکه کوچک"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 171,
+    "question": "آدرس MAC چیست؟",
+    "options": [
+      "آدرس منطقی",
+      "آدرس فیزیکی",
+      "آدرس موقتی",
+      "IP"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 172,
+    "question": "DNS چه کاری انجام می‌دهد؟",
+    "options": [
+      "IP می‌دهد",
+      "نام را به IP تبدیل می‌کند",
+      "سرعت را افزایش می‌دهد",
+      "فایل ذخیره می‌کند"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 173,
+    "question": "DHCP چه کاری انجام می‌دهد؟",
+    "options": [
+      "IP می‌دهد",
+      "ویروس پاک می‌کند",
+      "فایل انتقال می‌دهد",
+      "صفحه را کنترل می‌کند"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 174,
+    "question": "Ping چه کاری انجام می‌دهد؟",
+    "options": [
+      "انتقال فایل",
+      "بررسی ارتباط",
+      "حذف ویروس",
+      "تغییر IP"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 175,
+    "question": "پهنای باند چیست؟",
+    "options": [
+      "حافظه",
+      "IP",
+      "ظرفیت انتقال داده",
+      "CPU"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 176,
+    "question": "فایروال چه کاری انجام می‌دهد؟",
+    "options": [
+      "اینترنت را افزایش می‌دهد",
+      "امنیت را فراهم می‌کند",
+      "CPU را سریع می‌کند",
+      "فایل‌ها را پاک می‌کند"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 177,
+    "question": "VPN چیست؟",
+    "options": [
+      "شبکه عمومی",
+      "LAN",
+      "شبکه خصوصی مجازی",
+      "کابل"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 178,
+    "question": "رمزنگاری چیست؟",
+    "options": [
+      "حذف فایل",
+      "کدگذاری داده‌ها",
+      "ارائه اینترنت",
+      "تغییر IP"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 179,
+    "question": "آنتی‌ویروس چه کاری انجام می‌دهد؟",
+    "options": [
+      "فایل ایجاد می‌کند",
+      "ویروس را شناسایی و حذف می‌کند",
+      "IP می‌دهد",
+      "سرعت را افزایش می‌دهد"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 180,
+    "question": "فیشینگ چیست؟",
+    "options": [
+      "امنیت",
+      "حمله جعلی",
+      "شبکه",
+      "نرم‌افزار"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 181,
+    "question": "بدافزار چیست؟",
+    "options": [
+      "برنامه خوب",
+      "نرم‌افزار مخرب",
+      "شبکه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 182,
+    "question": "رایانش ابری چیست؟",
+    "options": [
+      "ذخیره محلی",
+      "خدمات آنلاین",
+      "CPU",
+      "کابل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 183,
+    "question": "HTTP چیست؟",
+    "options": [
+      "امنیت",
+      "پروتکل وب",
+      "IP",
+      "LAN"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 184,
+    "question": "تفاوت HTTPS چیست؟",
+    "options": [
+      "سریع‌تر است",
+      "امن‌تر است",
+      "ارزان‌تر است",
+      "قدیمی است"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 185,
+    "question": "پورت چیست؟",
+    "options": [
+      "کابل",
+      "درگاه ارتباطی",
+      "CPU",
+      "RAM"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 186,
+    "question": "مدل OSI چند لایه دارد؟",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 187,
+    "question": "TCP چیست؟",
+    "options": [
+      "پروتکل",
+      "سخت‌افزار",
+      "نرم‌افزار",
+      "کابل"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "UDP چه ویژگی دارد؟",
+    "options": [
+      "قابل اعتماد",
+      "غیرقابل اعتماد",
+      "کند",
+      "امن"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 189,
+    "question": "Subnetting چیست؟",
+    "options": [
+      "تقسیم شبکه",
+      "حذف فایل",
+      "دادن IP",
+      "پاک کردن ویروس"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 190,
+    "question": "Default Gateway چیست؟",
+    "options": [
+      "CPU",
+      "مسیر خروجی شبکه",
+      "RAM",
+      "فایل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 191,
+    "question": "NAT چه کاری انجام می‌دهد؟",
+    "options": [
+      "تغییر IP",
+      "حذف فایل",
+      "کنترل CPU",
+      "پاک کردن ویروس"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 192,
+    "question": "VLAN چیست؟",
+    "options": [
+      "شبکه فیزیکی",
+      "شبکه مجازی",
+      "کابل",
+      "RAM"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 193,
+    "question": "Access Point چیست؟",
+    "options": [
+      "روتر",
+      "CPU",
+      "فایل",
+      "دستگاه بیسیم"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 194,
+    "question": "Packet چیست؟",
+    "options": [
+      "فایل",
+      "RAM",
+      "بخش کوچک داده",
+      "CPU"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 195,
+    "question": "Latency چیست؟",
+    "options": [
+      "سرعت",
+      "تأخیر",
+      "حافظه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 196,
+    "question": "در Excel برای جمع کردن اعداد از کدام تابع استفاده می‌شود؟",
+    "options": [
+      "COUNT",
+      "SUM",
+      "MAX",
+      "IF"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 197,
+    "question": "برای وارد کردن فرمول در Excel، اولین علامت چیست؟",
+    "options": [
+      "=",
+      "#",
+      "$",
+      "&"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 198,
+    "question": "کدام گزینه برای ذخیره فایل استفاده می‌شود؟",
+    "options": [
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + C",
+      "Ctrl + V"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 199,
+    "question": "برای ایجاد نمودار در Excel از کدام تب استفاده می‌شود؟",
+    "options": [
+      "Home",
+      "Insert",
+      "Data",
+      "Review"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 200,
+    "question": "کدام تابع برای پیدا کردن بزرگترین عدد استفاده می‌شود؟",
+    "options": [
+      "MIN",
+      "MAX",
+      "SUM",
+      "COUNT"
+    ],
+    "answerIndex": 1
+  }
+]

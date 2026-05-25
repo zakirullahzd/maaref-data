@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 101,
+    "question": "کمپیوټر څه شی دی؟",
+    "options": [
+      "ماشین حساب",
+      "برېښنایی وسیله د معلوماتو د پروسس لپاره",
+      "تلیفون",
+      "تلویزیون"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "CPU مخفف څه دی؟",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Control Program Unit",
+      "Central Power Unit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 103,
+    "question": "لاندې کوم یو د کمپیوټر دماغ دی؟",
+    "options": [
+      "RAM",
+      "CPU",
+      "Monitor",
+      "Keyboard"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 104,
+    "question": "کومه وسیله د ننه ورکولو (Input) ده؟",
+    "options": [
+      "Printer",
+      "Monitor",
+      "Keyboard",
+      "Speaker"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "کومه وسیله د بهر ورکولو (Output) ده؟",
+    "options": [
+      "Mouse",
+      "Keyboard",
+      "Monitor",
+      "Scanner"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 106,
+    "question": "RAM څه ډول حافظه ده؟",
+    "options": [
+      "دایمي",
+      "موقتي",
+      "بهرنۍ",
+      "نوري"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "لاندې کوم یو عملیاتي سیستم (Operating System) دی؟",
+    "options": [
+      "Word",
+      "Windows",
+      "Excel",
+      "Paint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 108,
+    "question": "ماوس د څه لپاره کارول کیږي؟",
+    "options": [
+      "چاپ",
+      "د اشاره ګر (cursor) حرکت",
+      "خوندي کول",
+      "ټایپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "کوم پروګرام د لیکلو لپاره کارول کیږي؟",
+    "options": [
+      "Excel",
+      "Word",
+      "Paint",
+      "PowerPoint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "کومه یوه دایمي حافظه ده؟",
+    "options": [
+      "RAM",
+      "Cache",
+      "Hard Disk",
+      "Processor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "انټرنېټ څه دی؟",
+    "options": [
+      "یو سافټویر",
+      "د کمپیوټرونو نړیواله شبکه",
+      "یو پروګرام",
+      "عملیاتي سیستم"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "ایمیل څه دی؟",
+    "options": [
+      "برېښنایی لیک",
+      "پروګرام",
+      "لوبه",
+      "فایل"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 113,
+    "question": "کومه وسیله د چاپ لپاره ده؟",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Mouse",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "سافټویر څه دی؟",
+    "options": [
+      "فزیکي اجزاوې",
+      "پروګرامونه او لارښوونې",
+      "کیبلونه",
+      "مانیټر"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 115,
+    "question": "هارډویر څه دی؟",
+    "options": [
+      "پروګرامونه",
+      "د کمپیوټر فزیکي اجزاوې",
+      "انټرنېټ",
+      "ویروس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 116,
+    "question": "د کمپیوټر ویروس څه شی دی؟",
+    "options": [
+      "ګټور پروګرام",
+      "زیانمن پروګرام",
+      "عملیاتي سیستم",
+      "لوبه"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "لاندې کوم یو براوزر (Browser) دی؟",
+    "options": [
+      "Word",
+      "Chrome",
+      "Excel",
+      "Paint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 118,
+    "question": "فایل څه دی؟",
+    "options": [
+      "پروګرام",
+      "د خوندي شوي معلوماتو مجموعه",
+      "سیستم",
+      "ویروس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 119,
+    "question": "فولډر څه دی؟",
+    "options": [
+      "فایل",
+      "د فایلونو د ساتلو لپاره پوښ",
+      "پروګرام",
+      "ویروس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 120,
+    "question": "مانیټر څه دی؟",
+    "options": [
+      "ورودی (Input)",
+      "خروجی (Output)",
+      "حافظه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 121,
+    "question": "کیبورډ د څه لپاره دی؟",
+    "options": [
+      "لیدلو",
+      "ټایپ کولو",
+      "چاپ",
+      "خوندي کولو"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 122,
+    "question": "سکینر څه دی؟",
+    "options": [
+      "خروجی",
+      "ورودی",
+      "حافظه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 123,
+    "question": "USB څه دی؟",
+    "options": [
+      "سافټویر",
+      "د ذخیرې وسیله",
+      "مانیټر",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 124,
+    "question": "PowerPoint د څه لپاره دی؟",
+    "options": [
+      "حساب",
+      "پریزنټیشن وړاندې کول",
+      "انځورګري",
+      "ټایپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "Excel د څه لپاره دی؟",
+    "options": [
+      "لیکلو",
+      "محاسبې او جدول بندۍ",
+      "انځورګري",
+      "انټرنېټ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Desktop څه دی؟",
+    "options": [
+      "د کمپیوټر اصلي مخ",
+      "پروګرام",
+      "فایل",
+      "CPU"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 127,
+    "question": "Icon څه دی؟",
+    "options": [
+      "فایل",
+      "د پروګرام یا فایل کوچنی انځور",
+      "ویروس",
+      "کیبل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "Recycle Bin څه دی؟",
+    "options": [
+      "خوندي کول",
+      "د حذف شویو فایلونو ځای",
+      "پروګرام",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 129,
+    "question": "Save یعني څه؟",
+    "options": [
+      "حذف",
+      "خوندي کول",
+      "پرانیستل",
+      "چاپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 130,
+    "question": "Delete یعني څه؟",
+    "options": [
+      "خوندي کول",
+      "حذف",
+      "پرانیستل",
+      "چاپ"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 131,
+    "question": "PDF مخفف څه دی؟",
+    "options": [
+      "Portable Data File",
+      "Printed Document Format",
+      "Portable Document Format",
+      "Public Document File"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 132,
+    "question": "د PDF فایل ترټولو مهمه ځانګړنه څه ده؟",
+    "options": [
+      "د پروګرام د چلولو وړتیا",
+      "په ټولو وسیلو کې د فورمټ ساتل",
+      "یوازې لوستل کېدونکی",
+      "ډېر لوی حجم"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 133,
+    "question": "د PDF فایل د پرانیستلو لپاره کوم عام سافټویر دی؟",
+    "options": [
+      "Paint",
+      "Notepad",
+      "Adobe Acrobat Reader",
+      "Excel"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 134,
+    "question": "ایا د PDF فایل سمون (ویرایش) کېدای شي؟",
+    "options": [
+      "نه، هیڅکله",
+      "یوازې د Word ته په بدلولو سره",
+      "هو، د ځانګړو سافټویرونو په واسطه",
+      "یوازې په موبایل کې"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "کوم گزینه د فایل د PDF ته د بدلولو لپاره کارول کیږي؟",
+    "options": [
+      "Export یا Save As",
+      "Copy",
+      "Paste",
+      "Delete"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 136,
+    "question": "PDF فایل ډېر په کوم ځای کې کارول کیږي؟",
+    "options": [
+      "پروګرام جوړونه",
+      "لوبې ډیزاین",
+      "رسمي او روزنیز اسناد",
+      "موسیقي چلول"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 137,
+    "question": "په PDF کې کوم امنیتي ځانګړنه شتون لري؟",
+    "options": [
+      "اتومات نصب",
+      "رمزگذاري (پاسورډ)",
+      "اتومات رنګ بدلون",
+      "کوډ چلول"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 138,
+    "question": "د څو PDF فایلونو د یوځای کولو (ادغام) لپاره د څه څخه کار اخیستل کیږي؟",
+    "options": [
+      "انټرنېټ براوزر",
+      "د PDF د سمون سافټویرونه",
+      "ماشین حساب",
+      "Paint"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 139,
+    "question": "ایا PDF په ټولو سیستمونو کې چلېدای شي؟",
+    "options": [
+      "یوازې ویندوز",
+      "یوازې انډرایډ",
+      "هو، تقریباً په ټولو سیستمونو کې",
+      "یوازې Mac"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 140,
+    "question": "په PDF کې د ډیجیټل لاسلیک لپاره کوم گزینه کارول کیږي؟",
+    "options": [
+      "Insert Image",
+      "Digital Signature",
+      "Font Style",
+      "Zoom"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 141,
+    "question": "د INDEX او MATCH د تابعونو ترکیب ډېر د څه لپاره کارول کیږي؟",
+    "options": [
+      "چارټ رسمول",
+      "د معلوماتو پرمختللی پلټنه",
+      "د حجرو رنګ کول",
+      "فایل چاپول"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 142,
+    "question": "کوم تابع د هغو حجرو د شمېرلو لپاره کارول کیږي چې څو شرطونه ولري؟",
+    "options": [
+      "COUNT",
+      "COUNTIFS",
+      "SUM",
+      "MAX"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 143,
+    "question": "په فورمول =$A$1+B1 کې د $ نښه څه کوي؟",
+    "options": [
+      "جمع کوي",
+      "حذف کوي",
+      "د حجرې حواله ثابته کوي",
+      "فورمول پاکوي"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 144,
+    "question": "په Excel کې د Goal Seek وسیله د څه لپاره کارول کیږي؟",
+    "options": [
+      "جدول ډیزاین",
+      "د پایلې ته د رسیدو لپاره مناسب ارزښت موندل",
+      "چارټ رسمول",
+      "فایل چاپول"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 145,
+    "question": "Data Validation په Excel کې څه کوي؟",
+    "options": [
+      "حجرو ته رنګ ورکول",
+      "د غلط معلوماتو د داخلېدو مخنیوی",
+      "د ستنو حذف کول",
+      "چارټ جوړول"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 146,
+    "question": "په Word کې د نوي Style د جوړولو لپاره کوم گزینه کارول کیږي؟",
+    "options": [
+      "Insert → Styles",
+      "Home → Styles → Create a Style",
+      "Review → Styles",
+      "Layout → Styles"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 147,
+    "question": "د دې لپاره چې یو پاراګراف د دوو مخونو ترمنځ حرکت ونه کړي، کوم گزینه کارول کیږي؟",
+    "options": [
+      "Keep with next",
+      "Line spacing",
+      "Page break",
+      "Indent"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 148,
+    "question": "په Word کې د حوالې (Citation) او سرچینو د جوړولو لپاره کوم ټب کارول کیږي؟",
+    "options": [
+      "Insert",
+      "References",
+      "Review",
+      "Mailings"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 149,
+    "question": "د څو ورته لیکونو د توپیر لرونکي معلوماتو (لکه د خلکو نومونه) سره د یوځای کولو لپاره له کوم قابلیت څخه کار اخیستل کیږي؟",
+    "options": [
+      "Track Changes",
+      "Mail Merge",
+      "Compare",
+      "Macro"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 150,
+    "question": "په یوه سند کې د بدلونونو ثبتولو او سمونونو لیدلو لپاره له کوم گزینه کار اخیستل کیږي؟",
+    "options": [
+      "Comments",
+      "Track Changes",
+      "Protect Document",
+      "Compare"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 151,
+    "question": "د سند د سمون محدودولو لپاره (مثال: یوازې لوستل کېدونکی) کوم گزینه کارول کیږي؟",
+    "options": [
+      "Restrict Editing",
+      "Protect Sheet",
+      "Lock Cells",
+      "Hide Text"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 152,
+    "question": "د یو سند په بېلابېلو برخو کې د مختلف مخ شمارې د داخلولو لپاره څه ته اړتیا ده؟",
+    "options": [
+      "Table",
+      "Section Break",
+      "Page Layout",
+      "Header"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 153,
+    "question": "د متن د پرمختللي پلټنې او بدلون لپاره کوم گزینه کارول کیږي؟",
+    "options": [
+      "Replace (Ctrl + H)",
+      "Find (Ctrl + F)",
+      "Select All",
+      "Go To"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 154,
+    "question": "د اشکالو لست (List of Figures) د جوړولو لپاره له کوم قابلیت څخه کار اخیستل کیږي؟",
+    "options": [
+      "Insert Caption + References",
+      "SmartArt",
+      "Table Design",
+      "Shapes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 155,
+    "question": "په Word کې د لارښوونو یوې ټولګې د اتوماتیک اجرا کولو لپاره کوم گزینه کارول کیږي؟",
+    "options": [
+      "Template",
+      "Macro",
+      "Add-in",
+      "Shortcut"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "Keyboard څه شی دی؟",
+    "options": [
+      "د ټایپ کولو Input وسیله",
+      "یو موبایل",
+      "یو کمپیوټر",
+      "یو سافټویر"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 157,
+    "question": "CPU څه ته ویل کېږي؟",
+    "options": [
+      "حافظه",
+      "پروسس کوونکی",
+      "سکرین",
+      "شبکه"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 158,
+    "question": "RAM څه کار کوي؟",
+    "options": [
+      "دایمي ذخیره",
+      "موقتي ذخیره",
+      "ویروس پاکوي",
+      "انټرنېټ ورکوي"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 159,
+    "question": "Keyboard څه دی؟",
+    "options": [
+      "Output وسیله",
+      "Input وسیله",
+      "شبکه",
+      "سافټویر"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 160,
+    "question": "Monitor څه دی؟",
+    "options": [
+      "Input",
+      "Output",
+      "Storage",
+      "Network"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 161,
+    "question": "Software څه شی دی؟",
+    "options": [
+      "فزیکي برخه",
+      "پروګرامونه",
+      "کیبل",
+      "روټر"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 162,
+    "question": "Hardware څه ته ویل کیږي؟",
+    "options": [
+      "پروګرام",
+      "فزیکي وسایل",
+      "انټرنېټ",
+      "ډاټا"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 163,
+    "question": "OS څه دی؟",
+    "options": [
+      "Operating System",
+      "Output System",
+      "Open Software",
+      "Optical System"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 164,
+    "question": "Windows څه دی؟",
+    "options": [
+      "Hardware",
+      "Operating System",
+      "Network",
+      "Browser"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 165,
+    "question": "File څه دی؟",
+    "options": [
+      "پروګرام",
+      "معلوماتو ذخیره",
+      "شبکه",
+      "کیبل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 166,
+    "question": "IP Address څه دی؟",
+    "options": [
+      "فزیکي ادرس",
+      "منطقي ادرس",
+      "کیبل",
+      "پروګرام"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 167,
+    "question": "Router څه کوي؟",
+    "options": [
+      "ډاټا ذخیره کوي",
+      "شبکه وصلوي",
+      "ویروس پاکوي",
+      "سکرین ښکاره کوي"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 168,
+    "question": "Switch څه کوي؟",
+    "options": [
+      "انټرنېټ ورکوي",
+      "وسایل سره نښلوي",
+      "ویروس پاکوي",
+      "فایلونه جوړوي"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 169,
+    "question": "LAN څه دی؟",
+    "options": [
+      "نړیواله شبکه",
+      "محلي شبکه",
+      "موبایل شبکه",
+      "وایرلس"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 170,
+    "question": "WAN څه دی؟",
+    "options": [
+      "محلي شبکه",
+      "پراخه شبکه",
+      "شخصي شبکه",
+      "کوچنۍ شبکه"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 171,
+    "question": "MAC Address څه دی؟",
+    "options": [
+      "منطقي ادرس",
+      "فزیکي ادرس",
+      "موقتي ادرس",
+      "IP"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 172,
+    "question": "DNS څه کوي؟",
+    "options": [
+      "IP ورکوي",
+      "نوم IP ته اړوي",
+      "سرعت زیاتوي",
+      "فایل ذخیره کوي"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 173,
+    "question": "DHCP څه کوي؟",
+    "options": [
+      "IP ورکوي",
+      "ویروس پاکوي",
+      "فایل انتقالوي",
+      "سکرین کنټرولوي"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 174,
+    "question": "Ping څه کوي؟",
+    "options": [
+      "فایل انتقال",
+      "اړیکه چک کوي",
+      "ویروس حذف",
+      "IP بدلوي"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 175,
+    "question": "Bandwidth څه دی؟",
+    "options": [
+      "حافظه",
+      "د ډاټا انتقال ظرفیت",
+      "IP",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 176,
+    "question": "Firewall څه کوي؟",
+    "options": [
+      "انټرنېټ زیاتوي",
+      "امنیت برابروي",
+      "CPU چټکوي",
+      "فایلونه پاکوي"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 177,
+    "question": "VPN څه دی؟",
+    "options": [
+      "عامه شبکه",
+      "مجازي خصوصي شبکه",
+      "LAN",
+      "Cable"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 178,
+    "question": "Encryption څه دی؟",
+    "options": [
+      "فایل حذف",
+      "ډاټا کوډ کول",
+      "انټرنېټ ورکول",
+      "IP بدلول"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 179,
+    "question": "Antivirus څه کوي؟",
+    "options": [
+      "فایلونه جوړوي",
+      "ویروس کشف او حذف کوي",
+      "IP ورکوي",
+      "سرعت زیاتوي"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 180,
+    "question": "Phishing څه دی؟",
+    "options": [
+      "امنیت",
+      "جعلي برید",
+      "شبکه",
+      "سافټویر"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 181,
+    "question": "Malware څه دی؟",
+    "options": [
+      "ښه پروګرام",
+      "زیانمن سافټویر",
+      "شبکه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 182,
+    "question": "Cloud Computing څه دی؟",
+    "options": [
+      "محلي ذخیره",
+      "انلاین خدمات",
+      "CPU",
+      "کیبل"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 183,
+    "question": "HTTP څه دی؟",
+    "options": [
+      "امنیت",
+      "ویب پروتوکول",
+      "IP",
+      "LAN"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 184,
+    "question": "HTTPS څه فرق لري؟",
+    "options": [
+      "چټک دی",
+      "خوندي دی",
+      "ارزانه دی",
+      "زوړ دی"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 185,
+    "question": "Port څه دی؟",
+    "options": [
+      "کیبل",
+      "د اړیکې دروازه",
+      "CPU",
+      "RAM"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 186,
+    "question": "OSI Model څو Layers لري؟",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 187,
+    "question": "TCP څه دی؟",
+    "options": [
+      "پروتوکول",
+      "هارډویر",
+      "سافټویر",
+      "کیبل"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "UDP څه ځانګړنه لري؟",
+    "options": [
+      "Reliable",
+      "Unreliable",
+      "Slow",
+      "Secure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 189,
+    "question": "Subnetting څه دی؟",
+    "options": [
+      "شبکه تقسیمول",
+      "فایل حذف",
+      "IP ورکول",
+      "ویروس پاکول"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 190,
+    "question": "Default Gateway څه دی؟",
+    "options": [
+      "CPU",
+      "د شبکې وتلو لاره",
+      "RAM",
+      "File"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 191,
+    "question": "NAT څه کوي؟",
+    "options": [
+      "IP بدلوي",
+      "فایل حذف",
+      "CPU کنټرول",
+      "ویروس پاکوي"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 192,
+    "question": "VLAN څه دی؟",
+    "options": [
+      "فزیکي شبکه",
+      "مجازي شبکه",
+      "کیبل",
+      "RAM"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 193,
+    "question": "Access Point څه دی؟",
+    "options": [
+      "Router",
+      "Wireless device",
+      "CPU",
+      "File"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 194,
+    "question": "Packet څه دی؟",
+    "options": [
+      "فایل",
+      "د ډاټا کوچنۍ برخه",
+      "RAM",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 195,
+    "question": "Latency څه دی؟",
+    "options": [
+      "سرعت",
+      "ځنډ",
+      "حافظه",
+      "CPU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 196,
+    "question": "په Excel د جمع کولو لپاره کومه تابع استفاده کیږي؟",
+    "options": [
+      "COUNT",
+      "SUM",
+      "MAX",
+      "IF"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 197,
+    "question": "په Excel کې د فورمول داخلولو لپاره لومړی سمبول څه شی دی؟",
+    "options": [
+      "#",
+      "=",
+      "$",
+      "&"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 198,
+    "question": "د فایل د خوندي کولو لپاره کوم انتخاب کارول کیږي؟",
+    "options": [
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + C",
+      "Ctrl + V"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 199,
+    "question": "په Excel کې د چارټ جوړولو لپاره کوم ټب کارول کیږي؟",
+    "options": [
+      "Home",
+      "Insert",
+      "Data",
+      "Review"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 200,
+    "question": "د لوی عدد موندلو لپاره کوم فنکشن کارول کیږي؟",
+    "options": [
+      "MIN",
+      "MAX",
+      "SUM",
+      "COUNT"
+    ],
+    "answerIndex": 1
+  }
+]
