@@ -338,7 +338,7 @@
       "۸",
       "۱۲"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": 32,
@@ -547,7 +547,7 @@
       "۷",
       "۱۰"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": 51,
@@ -664,11 +664,11 @@
     "question": "پیامبر (ص) در چند سالگی مادر خود را از دست داد؟",
     "options": [
       "۵",
-      "۴",
+      "۶",
       "۸",
       "۱۰"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 62,
@@ -855,7 +855,7 @@
       "۶",
       "۳"
     ],
-    "answerIndex": 2
+    "answerIndex": 0
   },
   {
     "id": 79,
@@ -918,10 +918,10 @@
     "options": [
       "۶",
       "۴",
-      "۳",
+      "۲",
       "۱۰"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": 85,
@@ -1064,7 +1064,7 @@
       "قرضدار",
       "قرض که به دیگری حواله شده"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": 98,
