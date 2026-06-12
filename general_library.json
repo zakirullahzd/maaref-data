@@ -1,22 +1,24 @@
 [
   {
-    "id": "gl_sample_1",
+    "id": "gl_1",
     "lang": "ps",
-    "titlePs": "د سمپل کتاب",
-    "titleFa": "کتاب نمونه",
-    "grade": null,
-    "category": "general",
+    "titlePs": "د ماشومانو لپاره اسلامي لارښود",
+    "titleFa": "راهنمای اسلامی برای کودکان",
+    "category": "children",
     "coverAsset": null,
-    "archiveUrl": ""
+    "authorPs": "عرفان دیني کتب خانه",
+    "authorFa": "کتابخانه دینی عرفان",
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_1.pdf"
   },
-{
-    "id": "gl_sample_1",
+  {
+    "id": "gl_2",
     "lang": "ps",
-    "titlePs": "د سمپل کتاب",
-    "titleFa": "کتاب نمونه",
-    "grade": null,
-    "category": "general",
+    "titlePs": "سیرت النبی د ماشومانو لپاره",
+    "titleFa": "سیرت النبی برای کودکان",
+    "category": "children",
     "coverAsset": null,
-    "archiveUrl": ""
+    "authorPs": "نامعلوم",
+    "authorFa": "Unknown",
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_۲.pdf"
   }
 ]
