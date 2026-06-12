@@ -5,7 +5,7 @@
     "titlePs": "د ماشومانو لپاره اسلامي لارښود",
     "titleFa": "راهنمای اسلامی برای کودکان",
     "category": "children",
-    "coverAsset": null,
+    "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_1.jpg",
     "authorPs": "عرفان دیني کتب خانه",
     "authorFa": "کتابخانه دینی عرفان",
     "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_1.pdf"
@@ -16,20 +16,20 @@
     "titlePs": "سیرت النبی د ماشومانو لپاره",
     "titleFa": "سیرت النبی برای کودکان",
     "category": "children",
-    "coverAsset": null,
+    "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_2.jpg",
     "authorPs": "نامعلوم",
     "authorFa": "Unknown",
     "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_2.pdf"
   },
   {
-  "id": "gl_3",
-  "lang": "ps",
-  "titlePs": "د اداري اصلاحاتو او ملکي خدمتونو (۴۰۰) پوښتنې او ځوابونه",
-  "titleFa": "۴۰۰ سوال و جواب اصلاحات اداری و خدمات ملکی",
-  "category": "management",
-  "coverAsset": null,
-  "authorPs": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
-  "authorFa": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
-  "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_2.pdf"
-}
+    "id": "gl_3",
+    "lang": "ps",
+    "titlePs": "د اداري اصلاحاتو او ملکي خدمتونو (۴۰۰) پوښتنې او ځوابونه",
+    "titleFa": "۴۰۰ سوال و جواب اصلاحات اداری و خدمات ملکی",
+    "category": "management",
+    "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_3.jpg",
+    "authorPs": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
+    "authorFa": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_3.pdf"
+  }
 ]
