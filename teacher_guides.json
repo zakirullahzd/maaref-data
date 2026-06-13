@@ -1,0 +1,596 @@
+[
+  {
+    "id": "tg_ps_g7_41",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Arabic.pdf"
+  },
+  {
+    "id": "tg_ps_g7_44",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Dari.pdf"
+  },
+  {
+    "id": "tg_ps_g7_45",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Biology.pdf"
+  },
+  {
+    "id": "tg_ps_g7_46",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Pashto.pdf"
+  },
+  {
+    "id": "tg_ps_g7_47",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Geography.pdf"
+  },
+  {
+    "id": "tg_ps_g7_48",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_IslamicEducation.pdf"
+  },
+  {
+    "id": "tg_ps_g7_49",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_English.pdf"
+  },
+  {
+    "id": "tg_ps_g7_50",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Math.pdf"
+  },
+  {
+    "id": "tg_ps_g7_52",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_History.pdf"
+  },
+  {
+    "id": "tg_ps_g7_53",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Chemistry.pdf"
+  },
+  {
+    "id": "tg_ps_g7_54",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade7/G7_Pashto_Physics.pdf"
+  },
+  {
+    "id": "tg_ps_g8_55",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Math.pdf"
+  },
+  {
+    "id": "tg_ps_g8_56",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Arabic.pdf"
+  },
+  {
+    "id": "tg_ps_g8_57",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Biology.pdf"
+  },
+  {
+    "id": "tg_ps_g8_58",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Pashto.pdf"
+  },
+  {
+    "id": "tg_ps_g8_59",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Geography.pdf"
+  },
+  {
+    "id": "tg_ps_g8_61",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Dari.pdf"
+  },
+  {
+    "id": "tg_ps_g8_62",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_IslamicEducation.pdf"
+  },
+  {
+    "id": "tg_ps_g8_63",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_English.pdf"
+  },
+  {
+    "id": "tg_ps_g8_64",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_History.pdf"
+  },
+  {
+    "id": "tg_ps_g8_65",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Chemistry.pdf"
+  },
+  {
+    "id": "tg_ps_g8_67",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade8/G8_Pashto_Physics.pdf"
+  },
+  {
+    "id": "tg_ps_g9_68",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Math.pdf"
+  },
+  {
+    "id": "tg_ps_g9_69",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Arabic.pdf"
+  },
+  {
+    "id": "tg_ps_g9_70",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_English.pdf"
+  },
+  {
+    "id": "tg_ps_g9_71",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Biology.pdf"
+  },
+  {
+    "id": "tg_ps_g9_72",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Pashto.pdf"
+  },
+  {
+    "id": "tg_ps_g9_73",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Geography.pdf"
+  },
+  {
+    "id": "tg_ps_g9_75",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_IslamicEducation.pdf"
+  },
+  {
+    "id": "tg_ps_g9_76",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Dari.pdf"
+  },
+  {
+    "id": "tg_ps_g9_77",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_History.pdf"
+  },
+  {
+    "id": "tg_ps_g9_79",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Chemistry.pdf"
+  },
+  {
+    "id": "tg_ps_g9_81",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade9/G9_Pashto_Physics.pdf"
+  },
+  {
+    "id": "tg_ps_g10_82",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_English.pdf"
+  },
+  {
+    "id": "tg_ps_g10_83",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Biology.pdf"
+  },
+  {
+    "id": "tg_ps_g10_84",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Chemistry.pdf"
+  },
+  {
+    "id": "tg_ps_g10_87",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Dari.pdf"
+  },
+  {
+    "id": "tg_ps_g10_88",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Geography.pdf"
+  },
+  {
+    "id": "tg_ps_g10_89",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Physics.pdf"
+  },
+  {
+    "id": "tg_ps_g10_90",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_IslamicEducation.pdf"
+  },
+  {
+    "id": "tg_ps_g10_91",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Tafseer.pdf"
+  },
+  {
+    "id": "tg_ps_g10_92",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_History.pdf"
+  },
+  {
+    "id": "tg_ps_g10_93",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Math.pdf"
+  },
+  {
+    "id": "tg_ps_g10_94",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade10/G10_Pashto_Pashto.pdf"
+  },
+  {
+    "id": "tg_ps_g11_96",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_English.pdf"
+  },
+  {
+    "id": "tg_ps_g11_97",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Biology.pdf"
+  },
+  {
+    "id": "tg_ps_g11_98",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Chemistry.pdf"
+  },
+  {
+    "id": "tg_ps_g11_101",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Dari.pdf"
+  },
+  {
+    "id": "tg_ps_g11_102",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Geography.pdf"
+  },
+  {
+    "id": "tg_ps_g11_103",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_IslamicEducation.pdf"
+  },
+  {
+    "id": "tg_ps_g11_104",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Tafseer.pdf"
+  },
+  {
+    "id": "tg_ps_g11_105",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_History.pdf"
+  },
+  {
+    "id": "tg_ps_g11_106",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Math.pdf"
+  },
+  {
+    "id": "tg_ps_g11_107",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Pashto.pdf"
+  },
+  {
+    "id": "tg_ps_g11_108",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade11/G11_Pashto_Physics.pdf"
+  },
+  {
+    "id": "tg_ps_g12_109",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_IslamicEducation.pdf"
+  },
+  {
+    "id": "tg_ps_g12_110",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Tafseer.pdf"
+  },
+  {
+    "id": "tg_ps_g12_111",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Pashto.pdf"
+  },
+  {
+    "id": "tg_ps_g12_112",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_English.pdf"
+  },
+  {
+    "id": "tg_ps_g12_113",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_History.pdf"
+  },
+  {
+    "id": "tg_ps_g12_114",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Geography.pdf"
+  },
+  {
+    "id": "tg_ps_g12_115",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Math.pdf"
+  },
+  {
+    "id": "tg_ps_g12_116",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Dari.pdf"
+  },
+  {
+    "id": "tg_ps_g12_117",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Biology.pdf"
+  },
+  {
+    "id": "tg_ps_g12_118",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Chemistry.pdf"
+  },
+  {
+    "id": "tg_ps_g12_119",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/teacher_guides/grade12/G12_Pashto_Physics.pdf"
+  }
+]
