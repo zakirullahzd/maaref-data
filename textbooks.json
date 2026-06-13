@@ -1,0 +1,2531 @@
+[
+  {
+    "id": "ps_g1_islamic",
+    "lang": "ps",
+    "grade": 1,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade1/G1-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g1_math",
+    "lang": "ps",
+    "grade": 1,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade1/G1-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g1_skills",
+    "lang": "ps",
+    "grade": 1,
+    "subjectPs": "مهارتونه",
+    "subjectFa": "مهارت‌ها",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade1/G1-Ps-Life_Skills.pdf"
+  },
+  {
+    "id": "ps_g1_arts",
+    "lang": "ps",
+    "grade": 1,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنر رسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade1/G1-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g1_handwrite",
+    "lang": "ps",
+    "grade": 1,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade1/G1-Ps-Hand_Writting.pdf"
+  },
+  {
+    "id": "ps_g1_pashto",
+    "lang": "ps",
+    "grade": 1,
+    "subjectPs": "پښتو",
+    "subjectFa": "پښتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade1/G1-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g1_quran",
+    "lang": "ps",
+    "grade": 1,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade1/G1-Ps-Quran.pdf"
+  },
+  {
+    "id": "ps_g2_islamic",
+    "lang": "ps",
+    "grade": 2,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade2/G2-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g2_math",
+    "lang": "ps",
+    "grade": 2,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade2/G2-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g2_skills",
+    "lang": "ps",
+    "grade": 2,
+    "subjectPs": "مهارتونه",
+    "subjectFa": "مهارت‌ها",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade2/G2-Ps-Life_Skills.pdf"
+  },
+  {
+    "id": "ps_g2_arts",
+    "lang": "ps",
+    "grade": 2,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنر رسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade2/G2-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g2_handwrite",
+    "lang": "ps",
+    "grade": 2,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade2/G2-Ps-Hand_Writting.pdf"
+  },
+  {
+    "id": "ps_g2_pashto",
+    "lang": "ps",
+    "grade": 2,
+    "subjectPs": "پښتو",
+    "subjectFa": "پښتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade2/G2-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g2_quran",
+    "lang": "ps",
+    "grade": 2,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade2/G2-Ps-Quran.pdf"
+  },
+  {
+    "id": "ps_g3_islamic",
+    "lang": "ps",
+    "grade": 3,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade3/G3-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g3_math",
+    "lang": "ps",
+    "grade": 3,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade3/G3-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g3_skills",
+    "lang": "ps",
+    "grade": 3,
+    "subjectPs": "مهارتونه",
+    "subjectFa": "مهارت‌ها",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade3/G3-Ps-Life_Skills.pdf"
+  },
+  {
+    "id": "ps_g3_arts",
+    "lang": "ps",
+    "grade": 3,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنر رسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade3/G3-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g3_handwrite",
+    "lang": "ps",
+    "grade": 3,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade3/G3-Ps-Hand_Writing.pdf"
+  },
+  {
+    "id": "ps_g3_pashto",
+    "lang": "ps",
+    "grade": 3,
+    "subjectPs": "پښتو",
+    "subjectFa": "پښتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade3/G3-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g3_quran",
+    "lang": "ps",
+    "grade": 3,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade3/G3-Ps-Quran.pdf"
+  },
+  {
+    "id": "ps_g4_islamic",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g4_math",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g4_social",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "ټولنیز لوستونه",
+    "subjectFa": "اجتماعیات",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Social_Studies.pdf"
+  },
+  {
+    "id": "ps_g4_arts",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنر رسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g4_handwrite",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Hand_Writing.pdf"
+  },
+  {
+    "id": "ps_g4_pashto",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "پښتو",
+    "subjectFa": "پښتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g4_quran",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Quran.pdf"
+  },
+  {
+    "id": "ps_g4_dari",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g4_science",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "ساینس",
+    "subjectFa": "ساینس",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-Scence.pdf"
+  },
+  {
+    "id": "ps_g4_english",
+    "lang": "ps",
+    "grade": 4,
+    "subjectPs": "انګلیسی",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade4/G4-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g5_islamic",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Islamci_Study.pdf"
+  },
+  {
+    "id": "ps_g5_math",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g5_social",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "ټولنیز لوستونه",
+    "subjectFa": "اجتماعیات",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Social_Studies.pdf"
+  },
+  {
+    "id": "ps_g5_arts",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنر رسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g5_handwrite",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Handwriting.pdf"
+  },
+  {
+    "id": "ps_g5_pashto",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "پښتو",
+    "subjectFa": "پښتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g5_quran",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Quran.pdf"
+  },
+  {
+    "id": "ps_g5_dari",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g5_science",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "ساینس",
+    "subjectFa": "ساینس",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-Science.pdf"
+  },
+  {
+    "id": "ps_g5_english",
+    "lang": "ps",
+    "grade": 5,
+    "subjectPs": "انګلیسی",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade5/G5-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g6_islamic",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Islamic_Education.pdf"
+  },
+  {
+    "id": "ps_g6_math",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g6_social",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "ټولنیز لوستونه",
+    "subjectFa": "اجتماعیات",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Social_Studies.pdf"
+  },
+  {
+    "id": "ps_g6_arts",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنر رسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g6_handwrite",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Handwriting.pdf"
+  },
+  {
+    "id": "ps_g6_pashto",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "پښتو",
+    "subjectFa": "پښتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g6_quran",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Quran.pdf"
+  },
+  {
+    "id": "ps_g6_dari",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g6_science",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "ساینس",
+    "subjectFa": "ساینس",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-Science.pdf"
+  },
+  {
+    "id": "ps_g6_english",
+    "lang": "ps",
+    "grade": 6,
+    "subjectPs": "انګلیسی",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade6/G6-Ps-English.pdf"
+  },
+  {
+    "id": "fa_g1_islamic_h",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "دیني علوم ح",
+    "subjectFa": "علوم دینی ح",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Islamic_Study-H.pdf"
+  },
+  {
+    "id": "fa_g1_islamic_j",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "دیني علوم ج",
+    "subjectFa": "علوم دینی ج",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Islamic_Study-J.pdf"
+  },
+  {
+    "id": "fa_g1_math",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g1_skills",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "مهارتونه",
+    "subjectFa": "مهارت‌ها",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Life_Skills.pdf"
+  },
+  {
+    "id": "fa_g1_arts",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g1_handwrite",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Hand_Writing.pdf"
+  },
+  {
+    "id": "fa_g1_dari",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g1_quran",
+    "lang": "fa",
+    "grade": 1,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade1/G1-Dr-Quran.pdf"
+  },
+  {
+    "id": "fa_g2_islamic_h",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "دیني علوم ح",
+    "subjectFa": "علوم دینی ح",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Islamic_Study-H.pdf"
+  },
+  {
+    "id": "fa_g2_islamic_j",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "دیني علوم ج",
+    "subjectFa": "علوم دینی ج",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Islamic_Study-J.pdf"
+  },
+  {
+    "id": "fa_g2_math",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g2_skills",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "مهارتونه",
+    "subjectFa": "مهارت‌ها",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Life_Skills.pdf"
+  },
+  {
+    "id": "fa_g2_arts",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g2_handwrite",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Hand_Writing.pdf"
+  },
+  {
+    "id": "fa_g2_dari",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g2_quran",
+    "lang": "fa",
+    "grade": 2,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade2/G2-Dr-Quran.pdf"
+  },
+  {
+    "id": "fa_g3_islamic_h",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "دیني علوم ح",
+    "subjectFa": "علوم دینی ح",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Islamic_Study-H.pdf"
+  },
+  {
+    "id": "fa_g3_islamic_j",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "دیني علوم ج",
+    "subjectFa": "علوم دینی ج",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Islamic_Study-J.pdf"
+  },
+  {
+    "id": "fa_g3_math",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g3_skills",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "مهارتونه",
+    "subjectFa": "مهارت‌ها",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Life_Skills.pdf"
+  },
+  {
+    "id": "fa_g3_arts",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g3_handwrite",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Hand_Writing.pdf"
+  },
+  {
+    "id": "fa_g3_dari",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g3_quran",
+    "lang": "fa",
+    "grade": 3,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade3/G3-Dr-Quran.pdf"
+  },
+  {
+    "id": "fa_g4_islamic_h",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "دیني علوم ح",
+    "subjectFa": "علوم دینی ح",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Islamic_Study-H.pdf"
+  },
+  {
+    "id": "fa_g4_islamic_j",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "دیني علوم ج",
+    "subjectFa": "علوم دینی ج",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Islamic_Study-J.pdf"
+  },
+  {
+    "id": "fa_g4_math",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g4_social",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "ټولنیز لوستونه",
+    "subjectFa": "اجتماعیات",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Social_Studies.pdf"
+  },
+  {
+    "id": "fa_g4_arts",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g4_handwrite",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Hand_Writing.pdf"
+  },
+  {
+    "id": "fa_g4_dari",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g4_quran",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Quran.pdf"
+  },
+  {
+    "id": "fa_g4_pashto",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g4_science",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "ساینس",
+    "subjectFa": "ساینس",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-Science.pdf"
+  },
+  {
+    "id": "fa_g4_english",
+    "lang": "fa",
+    "grade": 4,
+    "subjectPs": "انګلیسی",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade4/G4-Dr-English.pdf"
+  },
+  {
+    "id": "fa_g5_islamic_h",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "دیني علوم ح",
+    "subjectFa": "علوم دینی ح",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Islamic_Study-H.pdf"
+  },
+  {
+    "id": "fa_g5_islamic_j",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "دیني علوم ج",
+    "subjectFa": "علوم دینی ج",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Islamic_Study-J.pdf"
+  },
+  {
+    "id": "fa_g5_math",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g5_social",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "ټولنیز لوستونه",
+    "subjectFa": "اجتماعیات",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Social_Studies.pdf"
+  },
+  {
+    "id": "fa_g5_arts",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g5_handwrite",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Hand_Writing.pdf"
+  },
+  {
+    "id": "fa_g5_dari",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g5_quran",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Quran.pdf"
+  },
+  {
+    "id": "fa_g5_pashto",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g5_science",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "ساینس",
+    "subjectFa": "ساینس",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-Science.pdf"
+  },
+  {
+    "id": "fa_g5_english",
+    "lang": "fa",
+    "grade": 5,
+    "subjectPs": "انګلیسی",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade5/G5-Dr-English.pdf"
+  },
+  {
+    "id": "fa_g6_islamic_h",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "دیني علوم ح",
+    "subjectFa": "علوم دینی ح",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Islamic_Study-H.pdf"
+  },
+  {
+    "id": "fa_g6_islamic_j",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "دیني علوم ج",
+    "subjectFa": "علوم دینی ج",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Islamic_Study-J.pdf"
+  },
+  {
+    "id": "fa_g6_math",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "ریاضی",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g6_social",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "ټولنیز لوستونه",
+    "subjectFa": "اجتماعیات",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Social_Studies.pdf"
+  },
+  {
+    "id": "fa_g6_arts",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "د رسامۍ هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g6_handwrite",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "حسن‌خط",
+    "subjectFa": "حسن‌خط",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Hand_Writing.pdf"
+  },
+  {
+    "id": "fa_g6_dari",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g6_quran",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "قرآن‌کریم",
+    "subjectFa": "قرآن‌کریم",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Quran.pdf"
+  },
+  {
+    "id": "fa_g6_pashto",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g6_science",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "ساینس",
+    "subjectFa": "ساینس",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-Science.pdf"
+  },
+  {
+    "id": "fa_g6_english",
+    "lang": "fa",
+    "grade": 6,
+    "subjectPs": "انګلیسی",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade6/G6-Dr-English.pdf"
+  },
+  {
+    "id": "ps_g7_islamic",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g7_math",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g7_dari",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "دري",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g7_pashto",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g7_english",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g7_biology",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Biology.pdf"
+  },
+  {
+    "id": "ps_g7_physics",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Physic.pdf"
+  },
+  {
+    "id": "ps_g7_chemistry",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Chemistry.pdf"
+  },
+  {
+    "id": "ps_g7_geography",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Geography.pdf"
+  },
+  {
+    "id": "ps_g7_history",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-History.pdf"
+  },
+  {
+    "id": "ps_g7_civic",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Civic.pdf"
+  },
+  {
+    "id": "ps_g7_arabic",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Arabic.pdf"
+  },
+  {
+    "id": "ps_g7_tajweed",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "تجوید",
+    "subjectFa": "تجوید",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Tajweed.pdf"
+  },
+  {
+    "id": "ps_g7_arts",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g7_profession",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "حرفه",
+    "subjectFa": "حرفه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-Profession.pdf"
+  },
+  {
+    "id": "ps_g7_hewad",
+    "lang": "ps",
+    "grade": 7,
+    "subjectPs": "هېواد پالنه",
+    "subjectFa": "وطندوستی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade7/G7-Ps-HewadPalana.pdf"
+  },
+  {
+    "id": "ps_g8_islamic",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g8_math",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g8_dari",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "دري",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g8_pashto",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g8_english",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g8_biology",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Biology.pdf"
+  },
+  {
+    "id": "ps_g8_physics",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Physic.pdf"
+  },
+  {
+    "id": "ps_g8_chemistry",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Chemistry.pdf"
+  },
+  {
+    "id": "ps_g8_geography",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Geography.pdf"
+  },
+  {
+    "id": "ps_g8_history",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-History.pdf"
+  },
+  {
+    "id": "ps_g8_civic",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Civic.pdf"
+  },
+  {
+    "id": "ps_g8_arabic",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Arabic.pdf"
+  },
+  {
+    "id": "ps_g8_tajweed",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "تجوید",
+    "subjectFa": "تجوید",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Tajweed.pdf"
+  },
+  {
+    "id": "ps_g8_arts",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g8_profession",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "حرفه",
+    "subjectFa": "حرفه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-Profession.pdf"
+  },
+  {
+    "id": "ps_g8_hewad",
+    "lang": "ps",
+    "grade": 8,
+    "subjectPs": "هیواد پالنه",
+    "subjectFa": "وطندوستی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade8/G8-Ps-HewadPalana.pdf"
+  },
+  {
+    "id": "ps_g9_islamic",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g9_math",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g9_dari",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "دري",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g9_pashto",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g9_english",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g9_biology",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Biology.pdf"
+  },
+  {
+    "id": "ps_g9_physics",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Physic.pdf"
+  },
+  {
+    "id": "ps_g9_chemistry",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Chemistry.pdf"
+  },
+  {
+    "id": "ps_g9_geography",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Geography.pdf"
+  },
+  {
+    "id": "ps_g9_history",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-History.pdf"
+  },
+  {
+    "id": "ps_g9_civic",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Civic.pdf"
+  },
+  {
+    "id": "ps_g9_arabic",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Arabic.pdf"
+  },
+  {
+    "id": "ps_g9_tajweed",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "تجوید",
+    "subjectFa": "تجوید",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Tajweed_.pdf"
+  },
+  {
+    "id": "ps_g9_arts",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Arts.pdf"
+  },
+  {
+    "id": "ps_g9_profession",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "حرفه",
+    "subjectFa": "حرفه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-Proffesion.pdf"
+  },
+  {
+    "id": "ps_g9_hewad",
+    "lang": "ps",
+    "grade": 9,
+    "subjectPs": "هېواد پالنه",
+    "subjectFa": "وطندوستی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade9/G9-Ps-HewadPalana.pdf"
+  },
+  {
+    "id": "ps_g10_islamic",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g10_math",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g10_dari",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "دري",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g10_pashto",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g10_english",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g10_biology",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Biology.pdf"
+  },
+  {
+    "id": "ps_g10_physics",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Physic.pdf"
+  },
+  {
+    "id": "ps_g10_chemistry",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Chemistry.pdf"
+  },
+  {
+    "id": "ps_g10_geography",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Geography.pdf"
+  },
+  {
+    "id": "ps_g10_history",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-History.pdf"
+  },
+  {
+    "id": "ps_g10_civic",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Civic.pdf"
+  },
+  {
+    "id": "ps_g10_tafseer",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Tapfseer.pdf"
+  },
+  {
+    "id": "ps_g10_computer",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "کمپیوټر",
+    "subjectFa": "کمپیوتر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Computer.pdf"
+  },
+  {
+    "id": "ps_g10_geology",
+    "lang": "ps",
+    "grade": 10,
+    "subjectPs": "جیولوژي",
+    "subjectFa": "جیولوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade10/G10-Ps-Geology.pdf"
+  },
+  {
+    "id": "ps_g11_islamic",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g11_math",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g11_dari",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "دري",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g11_pashto",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g11_english",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g11_biology",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Biology.pdf"
+  },
+  {
+    "id": "ps_g11_physics",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Physic.pdf"
+  },
+  {
+    "id": "ps_g11_chemistry",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Chemistry.pdf"
+  },
+  {
+    "id": "ps_g11_geography",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Geography.pdf"
+  },
+  {
+    "id": "ps_g11_history",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-History.pdf"
+  },
+  {
+    "id": "ps_g11_civic",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Civic.pdf"
+  },
+  {
+    "id": "ps_g11_tafseer",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Tafseer.pdf"
+  },
+  {
+    "id": "ps_g11_computer",
+    "lang": "ps",
+    "grade": 11,
+    "subjectPs": "کمپیوټر",
+    "subjectFa": "کمپیوتر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade11/G11-Ps-Computer.pdf"
+  },
+  {
+    "id": "ps_g12_islamic",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Islamic_Study.pdf"
+  },
+  {
+    "id": "ps_g12_math",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Math.pdf"
+  },
+  {
+    "id": "ps_g12_dari",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "دري",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Dari.pdf"
+  },
+  {
+    "id": "ps_g12_pashto",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Pashto.pdf"
+  },
+  {
+    "id": "ps_g12_english",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-English.pdf"
+  },
+  {
+    "id": "ps_g12_biology",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Biology.pdf"
+  },
+  {
+    "id": "ps_g12_physics",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Physic.pdf"
+  },
+  {
+    "id": "ps_g12_chemistry",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Chemistry.pdf"
+  },
+  {
+    "id": "ps_g12_geography",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Geography.pdf"
+  },
+  {
+    "id": "ps_g12_history",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-History.pdf"
+  },
+  {
+    "id": "ps_g12_civic",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Civic.pdf"
+  },
+  {
+    "id": "ps_g12_tafseer",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Tafseer.pdf"
+  },
+  {
+    "id": "ps_g12_computer",
+    "lang": "ps",
+    "grade": 12,
+    "subjectPs": "کمپیوټر",
+    "subjectFa": "کمپیوتر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/ps/grade12/G12-Ps-Computer.pdf"
+  },
+  {
+    "id": "fa_g7_islamic",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Islamic_Study_Hanafi.pdf"
+  },
+  {
+    "id": "fa_g7_math",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g7_dari",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g7_pashto",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g7_english",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Ps-English.pdf"
+  },
+  {
+    "id": "fa_g7_biology",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Biology.pdf"
+  },
+  {
+    "id": "fa_g7_physics",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Physic.pdf"
+  },
+  {
+    "id": "fa_g7_chemistry",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Chemistry.pdf"
+  },
+  {
+    "id": "fa_g7_geography",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Geography.pdf"
+  },
+  {
+    "id": "fa_g7_history",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-History.pdf"
+  },
+  {
+    "id": "fa_g7_civic",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Civic.pdf"
+  },
+  {
+    "id": "fa_g7_arabic",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Arabic.pdf"
+  },
+  {
+    "id": "fa_g7_tajweed",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "تجوید",
+    "subjectFa": "تجوید",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Tajweed.pdf"
+  },
+  {
+    "id": "fa_g7_arts",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g7_profession",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "حرفه",
+    "subjectFa": "حرفه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Profession.pdf"
+  },
+  {
+    "id": "fa_g7_hewad",
+    "lang": "fa",
+    "grade": 7,
+    "subjectPs": "هېواد پالنه",
+    "subjectFa": "وطندوستی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade7/G7-Dr-Watandosti.pdf"
+  },
+  {
+    "id": "fa_g8_islamic",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Islamic_Study_Hanafi.pdf"
+  },
+  {
+    "id": "fa_g8_math",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Math_0.pdf"
+  },
+  {
+    "id": "fa_g8_dari",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g8_pashto",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g8_english",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Ps-English.pdf"
+  },
+  {
+    "id": "fa_g8_biology",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Biology.pdf"
+  },
+  {
+    "id": "fa_g8_physics",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Physic.pdf"
+  },
+  {
+    "id": "fa_g8_chemistry",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Chemistry.pdf"
+  },
+  {
+    "id": "fa_g8_geography",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Geography.pdf"
+  },
+  {
+    "id": "fa_g8_history",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-History.pdf"
+  },
+  {
+    "id": "fa_g8_civic",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Civic.pdf"
+  },
+  {
+    "id": "fa_g8_arabic",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Arabic.pdf"
+  },
+  {
+    "id": "fa_g8_arts",
+    "lang": "fa",
+    "grade": 8,
+    "subjectPs": "هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade8/G8-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g9_islamic",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "دیني علوم",
+    "subjectFa": "علوم دینی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Islamic_Study_Hanafi.pdf"
+  },
+  {
+    "id": "fa_g9_math",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g9_dari",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g9_pashto",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g9_english",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Ps-English.pdf"
+  },
+  {
+    "id": "fa_g9_biology",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Biology.pdf"
+  },
+  {
+    "id": "fa_g9_physics",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Physic.pdf"
+  },
+  {
+    "id": "fa_g9_chemistry",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Chemistry.pdf"
+  },
+  {
+    "id": "fa_g9_geography",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Geography.pdf"
+  },
+  {
+    "id": "fa_g9_history",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-History.pdf"
+  },
+  {
+    "id": "fa_g9_civic",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Civic.pdf"
+  },
+  {
+    "id": "fa_g9_arabic",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "عربي",
+    "subjectFa": "عربی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Arabic.pdf"
+  },
+  {
+    "id": "fa_g9_tajweed",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "تجوید",
+    "subjectFa": "تجوید",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Tajweed.pdf"
+  },
+  {
+    "id": "fa_g9_arts",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "هنر",
+    "subjectFa": "هنررسامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Arts.pdf"
+  },
+  {
+    "id": "fa_g9_profession",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "حرفه",
+    "subjectFa": "حرفه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Profession.pdf"
+  },
+  {
+    "id": "fa_g9_hewad",
+    "lang": "fa",
+    "grade": 9,
+    "subjectPs": "هېواد پالنه",
+    "subjectFa": "وطندوستی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade9/G9-Dr-Watandosti.pdf"
+  },
+  {
+    "id": "fa_g10_islamic",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Islamic_Study_hanafi.pdf"
+  },
+  {
+    "id": "fa_g10_math",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g10_dari",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g10_pashto",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g10_english",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Ps-English.pdf"
+  },
+  {
+    "id": "fa_g10_biology",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Biology.pdf"
+  },
+  {
+    "id": "fa_g10_physics",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-physic.pdf"
+  },
+  {
+    "id": "fa_g10_chemistry",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Chemistry.pdf"
+  },
+  {
+    "id": "fa_g10_geography",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Geography.pdf"
+  },
+  {
+    "id": "fa_g10_history",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-History.pdf"
+  },
+  {
+    "id": "fa_g10_civic",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Civic.pdf"
+  },
+  {
+    "id": "fa_g10_tafseer",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Tafseer.pdf"
+  },
+  {
+    "id": "fa_g10_computer",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "کمپیوټر",
+    "subjectFa": "کمپیوتر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Computer.pdf"
+  },
+  {
+    "id": "fa_g10_geology",
+    "lang": "fa",
+    "grade": 10,
+    "subjectPs": "جیولوژي",
+    "subjectFa": "جیولوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade10/G10-Dr-Geology.pdf"
+  },
+  {
+    "id": "fa_g11_islamic",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Islamic_Study_Hanafi.pdf"
+  },
+  {
+    "id": "fa_g11_math",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g11_dari",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g11_pashto",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g11_english",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Ps-English.pdf"
+  },
+  {
+    "id": "fa_g11_biology",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Biology.pdf"
+  },
+  {
+    "id": "fa_g11_physics",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Physic.pdf"
+  },
+  {
+    "id": "fa_g11_chemistry",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Chemistry.pdf"
+  },
+  {
+    "id": "fa_g11_geography",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Geography.pdf"
+  },
+  {
+    "id": "fa_g11_history",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-History.pdf"
+  },
+  {
+    "id": "fa_g11_civic",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-CIvic.pdf"
+  },
+  {
+    "id": "fa_g11_tafseer",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Tafseer.pdf"
+  },
+  {
+    "id": "fa_g11_computer",
+    "lang": "fa",
+    "grade": 11,
+    "subjectPs": "کمپیوټر",
+    "subjectFa": "کمپیوتر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade11/G11-Dr-Computer.pdf"
+  },
+  {
+    "id": "fa_g12_islamic",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "اسلامي ښوونه",
+    "subjectFa": "تعلیمات اسلامی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Islamic_Study_Hanafi.pdf"
+  },
+  {
+    "id": "fa_g12_math",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "ریاضي",
+    "subjectFa": "ریاضی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Math.pdf"
+  },
+  {
+    "id": "fa_g12_dari",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "دری",
+    "subjectFa": "دری",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Dari.pdf"
+  },
+  {
+    "id": "fa_g12_pashto",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "پښتو",
+    "subjectFa": "پشتو",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Pashto.pdf"
+  },
+  {
+    "id": "fa_g12_english",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "انګلیسي",
+    "subjectFa": "انگلیسی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Ps-English.pdf"
+  },
+  {
+    "id": "fa_g12_biology",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "بیولوژي",
+    "subjectFa": "بیالوژی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Biology.pdf"
+  },
+  {
+    "id": "fa_g12_physics",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "فزیک",
+    "subjectFa": "فزیک",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Physic.pdf"
+  },
+  {
+    "id": "fa_g12_chemistry",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "کیمیا",
+    "subjectFa": "کیمیا",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Chemistry.pdf"
+  },
+  {
+    "id": "fa_g12_geography",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "جغرافیه",
+    "subjectFa": "جغرافیه",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Geography.pdf"
+  },
+  {
+    "id": "fa_g12_history",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "تاریخ",
+    "subjectFa": "تاریخ",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-History.pdf"
+  },
+  {
+    "id": "fa_g12_civic",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "مدنی زده کړې",
+    "subjectFa": "م.مدنی",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Civic.pdf"
+  },
+  {
+    "id": "fa_g12_tafseer",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "تفسیر",
+    "subjectFa": "تفسیر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Tafseer.pdf"
+  },
+  {
+    "id": "fa_g12_computer",
+    "lang": "fa",
+    "grade": 12,
+    "subjectPs": "کمپیوټر",
+    "subjectFa": "کمپیوتر",
+    "coverAsset": null,
+    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/textbooks/fa/grade12/G12-Dr-Computer.pdf"
+  }
+]
