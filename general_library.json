@@ -1,46 +1,38 @@
 [
   {
     "id": "gl_1",
+    "title": "سیرت النبی د ماشومانو لپاره",
+    "author": "مولانا محمد یعقوب نایل",
     "lang": "ps",
-    "titlePs": "د ماشومانو لپاره اسلامي لارښود",
-    "titleFa": "راهنمای اسلامی برای کودکان",
-    "category": "children",
+    "category": ["children", "islamic"],
     "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_1.jpg",
-    "authorPs": "عرفان دیني کتب خانه",
-    "authorFa": "کتابخانه دینی عرفان",
     "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_1.pdf"
   },
   {
     "id": "gl_2",
+    "title": "د ماشومانو لپاره اسلامي لارښود",
+    "author": "سید عبدالله ولي زی",
     "lang": "ps",
-    "titlePs": "سیرت النبی د ماشومانو لپاره",
-    "titleFa": "سیرت النبی برای کودکان",
-    "category": "children",
+    "category": ["children"],
     "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_2.jpg",
-    "authorPs": "نامعلوم",
-    "authorFa": "نامعلوم",
     "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_2.pdf"
   },
   {
     "id": "gl_3",
+    "title": "د اداري اصلاحاتو او ملکي خدمتونو (۴۰۰) پوښتنې او ځوابونه",
+    "author": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
     "lang": "ps",
-    "titlePs": "د اداري اصلاحاتو او ملکي خدمتونو (۴۰۰) پوښتنې او ځوابونه",
-    "titleFa": "۴۰۰ سوال و جواب اصلاحات اداری و خدمات ملکی",
-    "category": "management",
+    "category": ["management"],
     "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_3.jpg",
-    "authorPs": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
-    "authorFa": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
     "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_3.pdf"
   },
   {
     "id": "gl_4",
+    "title": "نړیوالې ذهني پوښتنې",
+    "author": "انجنیر نظام الله هدف",
     "lang": "ps",
-    "titlePs": "نړیوالې ذهني پوښتنې",
-    "titleFa": "سوالات ذهنی جهان",
-    "category": "children",
+    "category": ["children"],
     "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_4.jpg",
-    "authorPs": "انجنیر نظام الله هدف",
-    "authorFa": "انجنیر نظام الله هدف",
     "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_4.pdf"
   }
 ]
