@@ -8,7 +8,8 @@
     { "id": "self_help", "labelPs": "ځان پالنه", "labelFa": "خودسازی" },
     { "id": "business", "labelPs": "سوداګري", "labelFa": "تجارت" },
     { "id": "history", "labelPs": "تاریخ", "labelFa": "تاریخ" },
-    { "id": "other", "labelPs": "نور", "labelFa": "دیگر" }
+    { "id": "other", "labelPs": "نور", "labelFa": "دیگر" },
+    { "id": "seerat_nabawi", "labelPs": "سیرت نبوي", "labelFa": "سیرت نبوی" }
   ],
   "books": [
     {
@@ -16,7 +17,7 @@
       "title": "سیرت النبی د ماشومانو لپاره",
       "author": "مولانا محمد یعقوب نایل",
       "lang": "ps",
-      "category": ["children", "islamic"],
+      "category": ["children", "islamic", "seerat_nabawi"],
       "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_1.jpg",
       "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_1.pdf"
     },
@@ -55,6 +56,16 @@
       "category": ["islamic", "literature", "self_help"],
       "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_5.jpg",
       "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_5.pdf"
+    },
+    {
+      "id": "gl_6",
+      "title": "نبوي سیرت",
+      "author": "عبد السلام هارون",
+      "lang": "ps",
+      "category": ["islamic", "history", "seerat_nabawi"],
+      
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_6.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_6.pdf"
     }
   ]
 }
