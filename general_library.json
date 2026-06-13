@@ -1,38 +1,51 @@
-[
-  {
-    "id": "gl_1",
-    "title": "سیرت النبی د ماشومانو لپاره",
-    "author": "مولانا محمد یعقوب نایل",
-    "lang": "ps",
-    "category": ["children", "islamic"],
-    "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_1.jpg",
-    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_1.pdf"
-  },
-  {
-    "id": "gl_2",
-    "title": "د ماشومانو لپاره اسلامي لارښود",
-    "author": "سید عبدالله ولي زی",
-    "lang": "ps",
-    "category": ["children"],
-    "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_2.jpg",
-    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_2.pdf"
-  },
-  {
-    "id": "gl_3",
-    "title": "د اداري اصلاحاتو او ملکي خدمتونو (۴۰۰) پوښتنې او ځوابونه",
-    "author": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
-    "lang": "ps",
-    "category": ["management"],
-    "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_3.jpg",
-    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_3.pdf"
-  },
-  {
-    "id": "gl_4",
-    "title": "نړیوالې ذهني پوښتنې",
-    "author": "انجنیر نظام الله هدف",
-    "lang": "ps",
-    "category": ["children"],
-    "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_4.jpg",
-    "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_4.pdf"
-  }
-]
+{
+  "categories": [
+    { "id": "islamic", "labelPs": "اسلامي", "labelFa": "اسلامی" },
+    { "id": "children", "labelPs": "د ماشومانو", "labelFa": "کودکان" },
+    { "id": "education", "labelPs": "د زده کړې", "labelFa": "آموزشی" },
+    { "id": "civil_service", "labelPs": "اداري او دولتي دندې", "labelFa": "اداری و استخدامی" },
+    { "id": "literature", "labelPs": "ادبیات", "labelFa": "ادبیات" },
+    { "id": "self_help", "labelPs": "ځان پالنه", "labelFa": "خودسازی" },
+    { "id": "business", "labelPs": "سوداګري", "labelFa": "تجارت" },
+    { "id": "history", "labelPs": "تاریخ", "labelFa": "تاریخ" },
+    { "id": "other", "labelPs": "نور", "labelFa": "دیگر" }
+  ],
+  "books": [
+    {
+      "id": "gl_1",
+      "title": "سیرت النبی د ماشومانو لپاره",
+      "author": "مولانا محمد یعقوب نایل",
+      "lang": "ps",
+      "category": ["children", "islamic"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_1.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_1.pdf"
+    },
+    {
+      "id": "gl_2",
+      "title": "د ماشومانو لپاره اسلامي لارښود",
+      "author": "سید عبدالله ولي زی",
+      "lang": "ps",
+      "category": ["children"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_2.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_2.pdf"
+    },
+    {
+      "id": "gl_3",
+      "title": "د اداري اصلاحاتو او ملکي خدمتونو (۴۰۰) پوښتنې او ځوابونه",
+      "author": "حمیدالله (احساس)، فضل الدین (احسان)، محمد فاروق (تسل)",
+      "lang": "ps",
+      "category": ["civil_service"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_3.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_3.pdf"
+    },
+    {
+      "id": "gl_4",
+      "title": "نړیوالې ذهني پوښتنې",
+      "author": "انجنیر نظام الله هدف",
+      "lang": "ps",
+      "category": ["children"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_4.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_4.pdf"
+    }
+  ]
+}
