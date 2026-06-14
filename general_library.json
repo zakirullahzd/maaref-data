@@ -6,10 +6,12 @@
     { "id": "management", "labelPs": "اداره او مدیریت", "labelFa": "اداره و مدیریت" },
     { "id": "literature", "labelPs": "ادبیات", "labelFa": "ادبیات" },
     { "id": "self_help", "labelPs": "ځان پالنه", "labelFa": "خودسازی" },
+    { "id": "psychology", "labelPs": "ارواپوهنه", "labelFa": "روانشناسی" },
     { "id": "business", "labelPs": "سوداګري", "labelFa": "تجارت" },
     { "id": "history", "labelPs": "تاریخ", "labelFa": "تاریخ" },
     { "id": "other", "labelPs": "نور", "labelFa": "دیگر" },
-    { "id": "seerat_nabawi", "labelPs": "سیرت نبوي", "labelFa": "سیرت نبوی" }
+    { "id": "seerat_nabawi", "labelPs": "سیرت نبوي", "labelFa": "سیرت نبوی" },
+    { "id": "english_learning", "labelPs": "انګلیسي زده کړه", "labelFa": "آموزش انگلیسی" }
   ],
   "books": [
     {
@@ -63,9 +65,107 @@
       "author": "عبد السلام هارون",
       "lang": "ps",
       "category": ["islamic", "history", "seerat_nabawi"],
-      
       "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_6.jpg",
       "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_6.pdf"
+    },
+    {
+      "id": "gl_7",
+      "title": "انګریزي ژبه څنګه زده کړو؟",
+      "author": "احمدضیاء هادي",
+      "lang": "ps",
+      "category": ["english_learning", "education"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_7.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_7.pdf"
+    },
+    {
+      "id": "gl_8",
+      "title": "English Short Stories - له پښتو ماناسره",
+      "author": "حکمت الله یوسفزی",
+      "lang": "ps",
+      "category": ["english_learning", "literature"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_8.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_8.pdf"
+    },
+    {
+      "id": "gl_9",
+      "title": "د انګلیسي معلم",
+      "author": "عصمت الله خاروان",
+      "lang": "ps",
+      "category": ["english_learning", "education"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_9.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_9.pdf"
+    },
+    {
+      "id": "gl_10",
+      "title": "د ژبې حفاظت",
+      "author": "مفتي محمد عباس حلیمي",
+      "lang": "ps",
+      "category": ["islamic", "self_help"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_10.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_10.pdf"
+    },
+    {
+      "id": "gl_11",
+      "title": "د کاروبار حواک",
+      "author": "ژباړن: حامدالله ستون",
+      "lang": "ps",
+      "category": ["business", "self_help"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_11.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_11.pdf"
+    },
+    {
+      "id": "gl_12",
+      "title": "معلمینو ته نصیحتونه",
+      "author": "حمدالله شاکري",
+      "lang": "ps",
+      "category": ["education", "self_help"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_12.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_12.pdf"
+    },
+    {
+      "id": "gl_13",
+      "title": "د پروګرامونو د تدریس اصول",
+      "author": "جوهرجبران",
+      "lang": "ps",
+      "category": ["education"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_13.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_13.pdf"
+    },
+    {
+      "id": "gl_14",
+      "title": "ځان مه تباه کوه",
+      "author": "لیکوال: گري جان، ژباړه: حمیدالله حمیدي",
+      "lang": "ps",
+      "category": ["self_help"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_14.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_14.pdf"
+    },
+    {
+      "id": "gl_15",
+      "title": "ځوانانو ته ۱۰۰ نصیحتونه",
+      "author": "حافظ محمد انس مدني، زیاد: شاهد الله عمران",
+      "lang": "ps",
+      "category": ["islamic", "self_help", "children"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_15.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_15.pdf"
+    },
+    {
+      "id": "gl_16",
+      "title": "کاروباري مسایل او اسلامي حل لارې",
+      "author": "ژباړه او زیاتونه: فیاض حمید",
+      "lang": "ps",
+      "category": ["business", "islamic"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_16.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_16.pdf"
+    },
+    {
+      "id": "gl_17",
+      "title": "۹۹ سلنه ژوند ته بدلون ورکړئ",
+      "author": "سارا صفا",
+      "lang": "ps",
+      "category": ["self_help"],
+      "coverAsset": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/covers/gl_17.jpg",
+      "archiveUrl": "https://pub-678745cd7f32402db55ebaf86f03a6a1.r2.dev/general_library/gl_17.pdf"
     }
   ]
 }
